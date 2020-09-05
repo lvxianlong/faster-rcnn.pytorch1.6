@@ -1,5 +1,5 @@
 # faster-rcnn.pytorch1.6
-This is faster-rcnn in pytorch1.3.1+cuda10.0
+This is faster-rcnn in pytorch1.6.1+cuda10.2
 
 # A *Faster* Pytorch Implementation of Faster R-CNN
 
