@@ -1,6 +1,8 @@
 # A *Faster* Pytorch Implementation of Faster R-CNN
-
+##Faster-rcnn+python3.7+pytorch1.6
 ## Introduction
+#[09/05/2020] In order to adapt to the new version of the framwork, this paper makes a revision with reference to https://github.com/jwyang/faster-rcnn.pytorch. 
+
 
 ### Good news! This repo supports pytorch-1.0 now!!! We borrowed some code and techniques from [maskrcnn-benchmark](https://github.com/facebookresearch/maskrcnn-benchmark).
 
